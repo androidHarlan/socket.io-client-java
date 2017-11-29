@@ -1,3 +1,6 @@
+
+#参考http://www.jianshu.com/p/274db90fa0be
+
 # Socket.IO-client Java
 [![Build Status](https://travis-ci.org/socketio/socket.io-client-java.png?branch=master)](https://travis-ci.org/socketio/socket.io-client-java)
 
